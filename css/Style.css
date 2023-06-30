@@ -1,6 +1,5 @@
-
-
 *{
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -22,21 +21,24 @@ a{
     background-position: top !important; 
     }
  .left div{
-   text-align: center;
+   text-align: left;
  }
     .left{
-        position: absolute;
-        left: 50px;
-        top: 20px;
+        /* position: absolute; */
+        
+        left: 10px;
+        top: 40px;
         display: inline-block;
         /* border: 2px solid lavender; */
         font-size: 15px;
-        line-height: 12px;    }
+        /* line-height: 12px;  */
+       }
 
     .mid{
         display: block;
+        float: right;
        
-        width: 50%;
+       /* width: 50%; */
        margin: 30px auto;
         /* border: 2px solid lavender; */
 
@@ -53,15 +55,18 @@ a{
 
     .navbar{
         display: inline;
+        margin-right: 50px;
 
     }
 
     .navbar li{
+        text-align: right;
 
         display: inline-block;
     }
 
     .navbar li a{
+        text-align: right;
         display: inline-block;
         font-size: 20px;
         padding: 15px;
@@ -81,7 +86,7 @@ a{
     }
     .btn{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        margin: 0px 10px;
+        margin: 19px 10px;
         color: aliceblue;
         background-color: rgb(3, 3, 3);
         font-size: 15px;
