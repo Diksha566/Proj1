@@ -8,3 +8,6 @@ Created a GYM website using HTML, CSS 🚀
 > you can add on your detalis here.
 
 ![Screenshot (611)](https://github.com/Diksha566/proj1/assets/121545576/52c24c41-e19f-4256-9ad2-1d8ebab22b22)
+
+# Thanks for Visiting
+Please 🌟 this repository! It really helps others to find this❤️!! 
